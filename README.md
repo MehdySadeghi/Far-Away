@@ -12,18 +12,20 @@ Whether you're preparing for a weekend getaway or a long vacation, Travel List m
 
 ## 📸 Preview
 
-> Add screenshots of your application here.
-
 ### Home Screen
 
 ```md
-![Travel List Home](./screenshots/home.png)
+![Travel List Home](./screenshots/home-desktop.png)
+```
+
+```md
+![Travel List Home](./screenshots/mobile-version.png)
 ```
 
 ### Packing Progress
 
 ```md
-![Travel List Progress](./screenshots/progress.png)
+![Travel List Progress](./screenshots/all-checked.png)
 ```
 
 ---
@@ -54,6 +56,7 @@ Whether you're preparing for a weekend getaway or a long vacation, Travel List m
 ```text
 Travel-List/
 │
+├── screenshots/
 ├── public/
 ├── src/
 │   ├── components/
