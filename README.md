@@ -1,4 +1,4 @@
-# ✈️ Travel List
+# ✈️ Far Away
 
 A modern packing list application built with React that helps travelers organize, track, and manage everything they need before a trip.
 
