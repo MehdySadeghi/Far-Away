@@ -6,7 +6,7 @@ Whether you're preparing for a weekend getaway or a long vacation, Travel List m
 
 ## 🚀 Live Demo
 
-**Try it here:** https://travel-list-by-mehdy.netlify.app
+**Try it here:** https://far-away-by-mehdy.netlify.app/
 
 ---
 
@@ -157,7 +157,8 @@ GitHub:
 https://github.com/MehdySadeghi
 
 Live Project:
-https://travel-list-by-mehdy.netlify.app
+https://far-away-by-mehdy.netlify.app/
+
 
 ---
 
